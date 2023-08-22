@@ -1,1 +1,2 @@
 # anotherProject
+Read me file
